@@ -10,7 +10,7 @@ Development Kit License (20191101-BDSDK-SL).
 <b>The Spot SDK documentation is best viewed via our developer site at <a href="https://dev.bostondynamics.com">dev.bostondynamics.com</a>. </b>
 </p>
 
-<b> For Safe Spot paper: The experiment was conducted using "spot-sdk/python/examples/aa_safe_spot/wasd_extended.py" file. </b>
+<b> For Safe Spot paper: The experiment was conducted using "spot-sdk/python/examples/aa_Safe_Spot/wasd_extended.py" file. </b>
 
 # Spot SDK
 
